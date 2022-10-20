@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Live Site URL: [Where in the world?](https://where-in-the-world-henna.vercel.app/)
+- Solution URL: [Rexer-Glitch/REST-countries-API](https://github.com/Rexer-Glitch/REST-countries-API)
 
 ## My process
 
